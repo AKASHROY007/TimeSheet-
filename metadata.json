@@ -1,0 +1,6 @@
+{
+  "name": "Time Sheet",
+  "description": "Duty and overtime tracker with multi-sheet management, advances, earnings calculation, and reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
